@@ -24,6 +24,7 @@ public class AaltoXmlTest {
 	@Test
 	public void aaltoXmlTest() throws IOException, XMLStreamException {
 
+		// http://fasterxml.github.io/stax2-api/javadoc/3.1.4/org/codehaus/stax2/XMLInputFactory2.html
 		final AsyncXMLInputFactory inputF = new InputFactoryImpl();
 		inputF.configureForRoundTripping();
 		//inputF.setProperty(XMLInputFactory2.P_REPORT_ALL_TEXT_AS_CHARACTERS, "false");
