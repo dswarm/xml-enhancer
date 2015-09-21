@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listrecords>
+	<record>
+		<name><![CDATA[Flip]]></name>
+		<number><![CDATA[3]]></number>
+		<color><![CDATA[blau]]></color>
+		<date><![CDATA[20.12.2013]]></date>
+	</record>
+	<record>
+		<name><![CDATA[Willi <die Biene>]]></name>
+		<number><![CDATA[3]]></number>
+		<color><![CDATA[grün]]></color>
+		<date><![CDATA[10.12.2013]]></date>
+	</record>
+	<record>
+		<name><![CDATA[Maja]]></name>
+		<number><![CDATA[2]]></number>
+		<color><![CDATA[grün]]></color>
+		<date><![CDATA[10.10.2013]]></date>
+	</record>
+</listrecords>

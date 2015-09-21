@@ -1,0 +1,116 @@
+<?xml version='1.0'  encoding='UTF-8' ?>
+<record>
+	<control>
+		<sourcerecordid><![CDATA[63275]]></sourcerecordid>
+		<sourceid><![CDATA[libero_mab2]]></sourceid>
+		<recordid><![CDATA[libero_mab263275]]></recordid>
+		<ilsapiid><![CDATA[63275]]></ilsapiid>
+		<addsrcrecordid><![CDATA[63275]]></addsrcrecordid>
+		<sourceformat><![CDATA[MAB]]></sourceformat>
+		<sourcesystem><![CDATA[Other]]></sourcesystem>
+	</control>
+	<display>
+		<type><![CDATA[book]]></type>
+		<title><![CDATA[Apel, Heinrich Eduard: Disputationes de iis, quae Carolus Miltitius cum Luthero, inprimis Altenburgi in aedibus Spalatini, egerit - 1
+		]]></title>
+		<publisher><![CDATA[Typogr. Aulico]]></publisher>
+		<creationdate><![CDATA[1844]]></creationdate>
+		<format><![CDATA[18 S.]]></format>
+		<ispartof><![CDATA[Sacra anniversaria illustris Gymnasii Fridericiani Altenburgensis ... rite celebranda indicit ; 1844]]></ispartof>
+		<language><![CDATA[lat]]></language>
+		<relation><![CDATA[Sacra anniversaria illustris Gymnasii Fridericiani Altenburgensis ... rite celebranda indicit ; 1844]]></relation>
+		<availlibrary><![CDATA[$$ISLUB$$Lzell1$$1Magazin$$Savailable$$3MAG$$X32515514$$Yzell1]]></availlibrary>
+		<lds12><![CDATA[Apel, Heinrich Eduard: Disputationes de iis, quae Carolus Miltitius cum Luthero, inprimis Altenburgi in aedibus Spalatini, egerit - 1
+		]]></lds12>
+		<lds17><![CDATA[Buch]]></lds17>
+		<lds18><![CDATA[Typogr. Aulico]]></lds18>
+		<lds21><![CDATA[032431163]]></lds21>
+		<lds22><![CDATA[074958739]]></lds22>
+		<lds28><![CDATA[Altenburgi :]]></lds28>
+		<lds31><![CDATA[Apel, Heinrich Eduard: Disputationes de iis, quae Carolus Miltitius cum Luthero, inprimis Altenburgi in aedibus Spalatini, egerit
+		]]></lds31>
+		<lds32><![CDATA[Friedrichs-Gymnasium <Altenburg, Leipzig>: Sacra anniversaria illustris Gymnasii Fridericiani Altenburgensis ... rite celebranda
+			indicit
+		]]></lds32>
+		<lds39><![CDATA[Sacra anniversaria illustris Gymnasii Fridericiani Altenburgensis ... rite celebranda indicit ; 1844]]></lds39>
+		<availinstitution><![CDATA[$$ISLUB$$Savailable]]></availinstitution>
+		<availpnx><![CDATA[available]]></availpnx>
+	</display>
+	<links>
+		<linktoholdings><![CDATA[$$Tlibero_holdings]]></linktoholdings>
+	</links>
+	<search>
+		<title><![CDATA[Apel, Heinrich Eduard: Disputationes de iis, quae Carolus Miltitius cum Luthero, inprimis Altenburgi in aedibus Spalatini, egerit
+		]]></title>
+		<title><![CDATA[1]]></title>
+		<sourceid><![CDATA[libero_mab2]]></sourceid>
+		<recordid><![CDATA[libero_mab263275]]></recordid>
+		<recordid><![CDATA[032431201]]></recordid>
+		<recordid><![CDATA[63275]]></recordid>
+		<recordid><![CDATA[311720309]]></recordid>
+		<rsrctype><![CDATA[book]]></rsrctype>
+		<creationdate><![CDATA[1844]]></creationdate>
+		<addtitle><![CDATA[Sacra anniversaria illustris Gymnasii Fridericiani Altenburgensis ... rite celebranda indicit ; 1844]]></addtitle>
+		<addtitle><![CDATA[Friedrichs-Gymnasium <Altenburg, Leipzig>: Sacra anniversaria illustris Gymnasii Fridericiani Altenburgensis ... rite
+			celebranda indicit
+		]]></addtitle>
+		<addsrcrecordid><![CDATA[63275]]></addsrcrecordid>
+		<searchscope><![CDATA[libero_mab2]]></searchscope>
+		<searchscope><![CDATA[SC_SLUB-ZB]]></searchscope>
+		<searchscope><![CDATA[EXL]]></searchscope>
+		<scope><![CDATA[libero_mab2]]></scope>
+		<scope><![CDATA[SC_SLUB-ZB]]></scope>
+		<scope><![CDATA[EXL]]></scope>
+		<lsr01><![CDATA[32515514]]></lsr01>
+		<lsr04><![CDATA[Hist.Sax.D.527,1.m-1]]></lsr04>
+		<lsr05><![CDATA[Typogr. Aulico]]></lsr05>
+		<lsr06><![CDATA[MAG]]></lsr06>
+		<lsr20><![CDATA[032431201]]></lsr20>
+		<lsr21><![CDATA[032431163]]></lsr21>
+		<lsr21><![CDATA[074958739]]></lsr21>
+	</search>
+	<sort>
+		<title><![CDATA[Apel, Heinrich Eduard: Disputationes de iis, quae Carolus Miltitius cum Luthero, inprimis Altenburgi in aedibus Spalatini, egerit - 1
+		]]></title>
+		<creationdate><![CDATA[1844]]></creationdate>
+	</sort>
+	<facets>
+		<language><![CDATA[lat]]></language>
+		<creationdate><![CDATA[1844]]></creationdate>
+		<prefilter><![CDATA[books]]></prefilter>
+		<rsrctype><![CDATA[books]]></rsrctype>
+		<lfc01><![CDATA[available]]></lfc01>
+		<lfc02><![CDATA[zell1]]></lfc02>
+		<toplevel><![CDATA[available]]></toplevel>
+	</facets>
+	<dedup>
+		<t><![CDATA[99]]></t>
+		<c1><![CDATA[032431201]]></c1>
+		<c4><![CDATA[1844]]></c4>
+		<f1><![CDATA[032431201]]></f1>
+		<f6><![CDATA[1844]]></f6>
+		<f10><![CDATA[typog]]></f10>
+	</dedup>
+	<frbr>
+		<t><![CDATA[99]]></t>
+	</frbr>
+	<delivery>
+		<institution><![CDATA[EXL]]></institution>
+		<delcategory><![CDATA[Physical Item]]></delcategory>
+	</delivery>
+	<ranking>
+		<booster2><![CDATA[1]]></booster2>
+	</ranking>
+	<addata>
+		<btitle><![CDATA[Apel, Heinrich Eduard: Disputationes de iis, quae Carolus Miltitius cum Luthero, inprimis Altenburgi in aedibus Spalatini, egerit -
+			1
+		]]></btitle>
+		<addtitle><![CDATA[Sacra anniversaria illustris Gymnasii Fridericiani Altenburgensis ... rite celebranda indicit ; 1844]]></addtitle>
+		<format><![CDATA[book]]></format>
+		<genre><![CDATA[book]]></genre>
+		<cop><![CDATA[Altenburgi]]></cop>
+		<pub><![CDATA[Typogr. Aulico]]></pub>
+		<lad04><![CDATA[dbodproxy_du]]></lad04>
+		<lad05><![CDATA[dbodproxy_du]]></lad05>
+	</addata>
+</record>
