@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listRecords>
+	<record>
+		<name>Flip</name>
+		<number>3</number>
+		<color>blau</color>
+		<date>20.12.2013</date>
+	</record>
+	<record>
+		<name>Willi &lt;die Biene&gt;</name>
+		<number>3</number>
+		<color>grün</color>
+		<date>10.12.2013</date>
+	</record>
+	<record>
+		<name>Maja</name>
+		<number>2</number>
+		<color>grün</color>
+		<date>10.10.2013</date>
+	</record>
+</listRecords>
+	
