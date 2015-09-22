@@ -23,6 +23,8 @@ import java.nio.file.Paths;
 import java.util.List;
 
 import org.apache.commons.io.Charsets;
+import org.jsoup.Jsoup;
+import org.jsoup.JsoupOptions;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Entities;
 import org.jsoup.nodes.Node;
@@ -60,7 +62,7 @@ public class XMLEnhancer {
 
 		nodes.forEach(node -> {
 
-			node.ownerDocument().outputSettings().escapeMode(Entities.EscapeMode.xhtml).prettyPrint(false);
+			node.ownerDocument().outputSettings().escapeMode(Entities.EscapeMode.xhtml).preserveCase(true).prettyPrint(false);
 
 			if (node instanceof TextNode) {
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<listrecords>
+<listRecords>
 	<record>
 		<name><![CDATA[Flip]]></name>
 		<number><![CDATA[3]]></number>
@@ -18,4 +18,5 @@
 		<color><![CDATA[grün]]></color>
 		<date><![CDATA[10.10.2013]]></date>
 	</record>
-</listrecords>
+</listRecords>
+	
