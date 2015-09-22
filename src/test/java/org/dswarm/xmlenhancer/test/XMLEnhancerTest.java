@@ -72,7 +72,7 @@ public class XMLEnhancerTest {
 
 		final Path inputResourcePath = Paths.get(inputResourceURL.getFile());
 		final Path inputResourcePathParent = inputResourcePath.getParent();
-		final String outputFilePath = inputResourcePathParent.toString() + File.pathSeparator + expectedOutputFileName;
+		final String outputFilePath = inputResourcePathParent.toString() + File.separator + expectedOutputFileName;
 		final String inputFilePath = inputResourcePath.toString();
 
 		XMLEnhancer.enhanceXML(inputFilePath, outputFilePath);
