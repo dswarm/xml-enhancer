@@ -39,6 +39,8 @@ import org.dswarm.xmlenhancer.XMLEnhancer;
  */
 public class XMLEnhancerTest {
 
+	public static final String TEMP_PREFIX = "temp_";
+
 	@Test
 	public void xmlEnhancerTest() throws IOException {
 
@@ -72,7 +74,7 @@ public class XMLEnhancerTest {
 
 		final Path inputResourcePath = Paths.get(inputResourceURL.getFile());
 		final Path inputResourcePathParent = inputResourcePath.getParent();
-		final String outputFilePath = inputResourcePathParent.toString() + File.separator + expectedOutputFileName;
+		final String outputFilePath = inputResourcePathParent.toString() + File.separator + TEMP_PREFIX + expectedOutputFileName;
 		final String inputFilePath = inputResourcePath.toString();
 
 		XMLEnhancer.enhanceXML(inputFilePath, outputFilePath);
