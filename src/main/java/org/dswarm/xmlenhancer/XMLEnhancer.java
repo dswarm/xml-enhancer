@@ -23,8 +23,6 @@ import java.nio.file.Paths;
 import java.util.List;
 
 import org.apache.commons.io.Charsets;
-import org.jsoup.Jsoup;
-import org.jsoup.JsoupOptions;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Entities;
 import org.jsoup.nodes.Node;
@@ -119,8 +117,6 @@ public class XMLEnhancer {
 				}
 
 				final String alignedText = alignTextWithWholeText(wholeText, text);
-
-				final String unescapedAlignedText = Parser.unescapeEntities(alignedText, true);
 
 				final String unescapeEntities = String.format("%s%s%s", START_CDATA, alignedText, END_CDATA);
 
