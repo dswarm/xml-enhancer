@@ -68,6 +68,15 @@ public class XMLEnhancerTest {
 		xmlEnhancerTestInternal(inputFileName, expectedOutputFileName);
 	}
 
+	@Test
+	public void jsoupTest4() throws IOException {
+
+		final String inputFileName = "escaping.xml";
+		final String expectedOutputFileName = "escaping_result.xml";
+
+		xmlEnhancerTestInternal(inputFileName, expectedOutputFileName);
+	}
+
 	private void xmlEnhancerTestInternal(final String inputFileName, final String expectedOutputFileName) throws IOException {
 
 		final URL inputResourceURL = Resources.getResource(inputFileName);

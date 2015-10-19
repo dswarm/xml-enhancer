@@ -23,8 +23,6 @@ import java.nio.file.Paths;
 import java.util.List;
 
 import org.apache.commons.io.Charsets;
-import org.jsoup.Jsoup;
-import org.jsoup.JsoupOptions;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Entities;
 import org.jsoup.nodes.Node;
@@ -118,10 +116,42 @@ public class XMLEnhancer {
 					return;
 				}
 
-				final String unescapeEntities = Parser.unescapeEntities(String.format("%s%s%s", START_CDATA, wholeText, END_CDATA), true);
+				final String alignedText = alignTextWithWholeText(wholeText, text);
+
+				final String unescapeEntities = String.format("%s%s%s", START_CDATA, alignedText, END_CDATA);
 
 				textNode.text(unescapeEntities);
 			}
 		});
+	}
+
+	private static String alignTextWithWholeText(final String wholeText, final String text) {
+
+		// align start and ending between whole text and text
+		String cuttedStartText = text;
+
+		int j = 0;
+
+		for(int i = 0; i < text.length(); i++) {
+
+			final char currentTextCharacter = text.charAt(i);
+			final char currentWholeTextCharacter = wholeText.charAt(j);
+
+			if(currentTextCharacter == currentWholeTextCharacter) {
+
+				if(currentTextCharacter != '\n' && currentTextCharacter != '\r' && currentTextCharacter != '\t') {
+
+					// hit first real character, now move back to the point where both matched first
+
+					cuttedStartText = text.substring(i - j, text.length());
+
+					break;
+				}
+
+				j++;
+			}
+		}
+
+		return cuttedStartText;
 	}
 }
