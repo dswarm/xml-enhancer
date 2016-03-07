@@ -50,7 +50,7 @@
 		<version.guava>19.0</version.guava>
 		<version.commons-io>2.4</version.commons-io>
 		<version.jsoup>1.8.4-dswarm-SNAPSHOT</version.jsoup>
-		<version.xmlunit>2.0.0-SNAPSHOT</version.xmlunit>
+		<version.xmlunit>2.0.0</version.xmlunit>
 	</properties>
 
 	<repositories>
