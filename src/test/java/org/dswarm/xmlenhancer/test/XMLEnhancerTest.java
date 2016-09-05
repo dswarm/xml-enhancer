@@ -26,6 +26,7 @@ import com.google.common.io.ByteSource;
 import com.google.common.io.Resources;
 import org.apache.commons.io.Charsets;
 import org.junit.Assert;
+import org.junit.Ignore;
 import org.junit.Test;
 import org.xmlunit.builder.DiffBuilder;
 import org.xmlunit.builder.Input;
@@ -41,11 +42,26 @@ public class XMLEnhancerTest {
 
 	public static final String TEMP_PREFIX = "temp_";
 
+	/**
+	 * we do not escaped non-escaped entities atm
+	 *
+	 * @throws IOException
+	 */
+	@Ignore
 	@Test
 	public void xmlEnhancerTest() throws IOException {
 
 		final String inputFileName = "nonEscapedAmp.xml";
 		final String expectedOutputFileName = "escapedAmp.xml";
+
+		xmlEnhancerTestInternal(inputFileName, expectedOutputFileName);
+	}
+
+	@Test
+	public void xmlEnhancerTest3() throws IOException {
+
+		final String inputFileName = "nonEscapedAmp.xml";
+		final String expectedOutputFileName = "cdataed_nonEscapedAmp.xml";
 
 		xmlEnhancerTestInternal(inputFileName, expectedOutputFileName);
 	}
