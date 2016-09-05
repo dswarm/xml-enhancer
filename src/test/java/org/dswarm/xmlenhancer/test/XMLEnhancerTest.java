@@ -43,7 +43,7 @@ public class XMLEnhancerTest {
 	public static final String TEMP_PREFIX = "temp_";
 
 	/**
-	 * we escape non-escaped entities atm, i.e., we do not keep content as it is
+	 * we escape non-escaped entities atm, i.e., we do not always keep content as it is
 	 *
 	 * @throws IOException
 	 */
@@ -107,6 +107,21 @@ public class XMLEnhancerTest {
 
 		final String inputFileName = "testxml_w_amp_in_attr.xml";
 		final String expectedOutputFileName = "cdataed_testxml_w_amp_in_attr.xml";
+
+		xmlEnhancerTestInternal(inputFileName, expectedOutputFileName);
+	}
+
+	/**
+	 * &uuml; etc. will also be unescaped (right at the beginning)
+	 *
+	 * @throws IOException
+	 */
+	@Ignore
+	@Test
+	public void jsoupTest6() throws IOException {
+
+		final String inputFileName = "testxml2.xml";
+		final String expectedOutputFileName = "cdataed_testxml2.xml";
 
 		xmlEnhancerTestInternal(inputFileName, expectedOutputFileName);
 	}
