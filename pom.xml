@@ -49,7 +49,8 @@
 		<junit.version>4.12</junit.version>
 		<version.guava>19.0</version.guava>
 		<version.commons-io>2.5</version.commons-io>
-		<version.jsoup>1.8.4-dswarm-SNAPSHOT</version.jsoup>
+		<version.commons-lang3>3.4</version.commons-lang3>
+		<version.jsoup>1.9.3-SNAPSHOT</version.jsoup>
 		<version.xmlunit>2.2.1</version.xmlunit>
 	</properties>
 
@@ -96,6 +97,11 @@
 			<groupId>commons-io</groupId>
 			<artifactId>commons-io</artifactId>
 			<version>${version.commons-io}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>${version.commons-lang3}</version>
 		</dependency>
 
 		<!-- Testing -->
