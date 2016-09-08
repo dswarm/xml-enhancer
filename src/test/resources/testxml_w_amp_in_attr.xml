@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ftx:documentContainer
+		xmlns:ftx="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:dcterms="http://purl.org/dc/terms/"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.w3.org/XML/1998/namespace http://www.w3.org/2001/xml.xsd http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2003/04/02/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2003/04/02/dcterms.xsd">
+	<document id="TEMA20150513951">
+		<systemInfo>
+			<metadataCopyright>
+				<dc:rights>TEMA, Copyright WTI-Frankfurt eG</dc:rights>
+				<dcterms:dateCopyrighted>2015-06-24</dcterms:dateCopyrighted>
+			</metadataCopyright>
+			<databaseDate>2015-06-22</databaseDate>
+			<documentID>20150513951</documentID>
+			<changeDate>2015-06-19</changeDate>
+		</systemInfo>
+		<formalInfo>
+			<copyright>
+				<dc:rights>(C) Alle Rechte beim Herausgeber</dc:rights>
+				<dcterms:dateCopyrighted>201506</dcterms:dateCopyrighted>
+			</copyright>
+			<sizes>
+				<size unit="undefined">7 Seiten, 8 Bilder, 36 Quellen</size>
+			</sizes>
+			<identifiers>
+				<identifier type="issn">1040-0397</identifier>
+				<identifier type="eissn">1521-4109</identifier>
+				<identifier type="FIZ-J-Code">6807</identifier>
+				<identifier type="datasource">WIL</identifier>
+				<identifier type="targetpool">E</identifier>
+				<identifier type="multipool">ZDEE</identifier>
+				<identifier type="multipool">CEMA</identifier>
+			</identifiers>
+			<documentLanguages>
+				<documentLanguage>
+					<languageCodes>
+						<code iso="639-1">EN</code>
+					</languageCodes>
+				</documentLanguage>
+			</documentLanguages>
+			<locations>
+				<location type="url" subtype="doi">http://dx.doi.org/10.1002/elan.201400624</location>
+			</locations>
+			<localHoldings>
+				<localHolding>
+					<location type="tibShelfmark">TIB-ZO6355</location>
+				</localHolding>
+			</localHoldings>
+			<documentTypes>
+				<documentAdvancedType>
+					<documentGenreGroup>
+						<documentGenre>
+							<documentGenreCode>J</documentGenreCode>
+						</documentGenre>
+					</documentGenreGroup>
+					<documentTypeGroup>
+						<documentType>
+							<documentTypeCode>ED</documentTypeCode>
+						</documentType>
+					</documentTypeGroup>
+				</documentAdvancedType>
+			</documentTypes>
+		</formalInfo>
+		<bibliographicInfo dependend="true">
+			<dc:title xml:lang="EN">One Step Fabrication of Au Nanoparticles-Ni-Al Layered Double Hydroxide Composite Film for the Determination of L-Cysteine</dc:title>
+			<abstracts>
+				<abstract xml:lang="EN" copyright="Copyright Wiley-VCH Verlag GmbH &amp; Co. KGaA. Reproduced with permission.">This paper reports the fabrication of Au nanoparticles (Au NPs)-Ni-Al layerd double hydroxide (LDH) composite film by one step electrochemical deposition on the surface of a glass carbon electrode from the mixture solution containing HAuCl<sub>4</sub> and nitrate salts of Ni<sup>2+</sup> and Al<sup>3+</sup>. Improved conductivity was obtained by Au NPs codeposited on LDH film. The synergic effect of LDHs and Au NPs dramatically improves the performance of L-cysteine electro-oxidation, displaying low oxidation peak potential (0.16 V) and high current response. Thus the electrode was used to sense L-cysteine, showing good sensitivity and selectivity.</abstract>
+			</abstracts>
+			<creators>
+				<creator>
+					<dc:creator>Wu, Liping</dc:creator>
+					<alternativeCreator>
+						<dc:creator>Wu-Liping</dc:creator>
+					</alternativeCreator>
+				</creator>
+				<creator>
+					<dc:creator>Li, Jing</dc:creator>
+					<alternativeCreator>
+						<dc:creator>Li-Jing</dc:creator>
+					</alternativeCreator>
+				</creator>
+				<creator>
+					<dc:creator>Zhang, Hui-Min</dc:creator>
+					<alternativeCreator>
+						<dc:creator>Zhang-Hui-Min</dc:creator>
+					</alternativeCreator>
+				</creator>
+			</creators>
+			<authorsAffiliations>
+				<authorsAffiliation>
+					<affiliation>Beijing Institute of Technology, CN</affiliation>
+				</authorsAffiliation>
+			</authorsAffiliations>
+			<additionalDocumentInfo>
+				<articleInfo>
+					<pages>1195-1201</pages>
+					<firstPage>1195</firstPage>
+					<lastPage>1201</lastPage>
+				</articleInfo>
+				<journalInfo>
+					<dc:title>Electroanalysis</dc:title>
+					<volumeNumber>27</volumeNumber>
+					<issueNumber>5</issueNumber>
+					<coverDate>2015</coverDate>
+				</journalInfo>
+			</additionalDocumentInfo>
+			<publicationInfo>
+				<dcterms:Issued>2015</dcterms:Issued>
+			</publicationInfo>
+		</bibliographicInfo>
+		<classificationInfo>
+			<classifications>
+				<classification classificationName="FIZTtc">
+					<class>
+						<code>A</code>
+					</class>
+				</classification>
+				<classification classificationName="FON2006">
+					<class>
+						<code>3QN</code>
+					</class>
+					<class>
+						<code>3PLA</code>
+					</class>
+				</classification>
+			</classifications>
+			<subjects>
+				<dc:subject>geschichtetes Doppelhydroxid</dc:subject>
+				<dc:subject>Gold</dc:subject>
+				<dc:subject>Nanoteilchen</dc:subject>
+				<dc:subject>Biosensor</dc:subject>
+				<dc:subject>Cystein</dc:subject>
+				<dc:subject>Nitrat</dc:subject>
+				<dc:subject>Oxidation</dc:subject>
+				<dc:subject>Verbundfolie</dc:subject>
+				<dc:subject>galvanische Abscheidung</dc:subject>
+				<dc:subject>Glaselektrode</dc:subject>
+				<dc:subject>Starkstrom</dc:subject>
+				<dc:subject>Elektroplattierung</dc:subject>
+				<dc:subject>Synergieeffekt</dc:subject>
+			</subjects>
+		</classificationInfo>
+		<functionalInfo>
+			<abstractLanguage>EN</abstractLanguage>
+			<geographicTerms>
+				<affiliationsCountryCode>CN</affiliationsCountryCode>
+			</geographicTerms>
+			<thesaurusTerms>
+				<synonyms>
+					<synonym xml:lang="DE" type="DES">GESCHICHTETES-DOPPELHYDROXID</synonym>
+					<synonym xml:lang="DE" type="SYN">LDH:GESCHICHTETES-DOPPELHYDROXID</synonym>
+					<synonym xml:lang="DE" type="SYN">LDH:LAYERED-DOUBLE-HYDROXIDE</synonym>
+					<synonym xml:lang="EN" type="SYN">LAYERED-DOUBLE-HYDROXIDE</synonym>
+					<synonym xml:lang="DE" type="SUP">DOPPELHYDROXID</synonym>
+					<synonym xml:lang="EN" type="SUP">DOUBLE-HYDROXIDE</synonym>
+					<synonym xml:lang="DE" type="SUP">HYDROXIDMINERAL</synonym>
+					<synonym xml:lang="DE" type="SUP">HYDROXYDMINERAL</synonym>
+					<synonym xml:lang="EN" type="SUP">HYDROXIDE-MINERAL</synonym>
+					<synonym xml:lang="DE" type="SUP">MINERAL</synonym>
+					<synonym xml:lang="EN" type="SUP">MINERALS</synonym>
+					<synonym xml:lang="DE" type="DES">GOLD</synonym>
+					<synonym xml:lang="DE" type="SUP">EDELMETALLE</synonym>
+					<synonym xml:lang="DE" type="SUP">EDELMETALL</synonym>
+					<synonym xml:lang="EN" type="SUP">NOBLE-METALS</synonym>
+					<synonym xml:lang="EN" type="SUP">PRECIOUS-METALS</synonym>
+					<synonym xml:lang="DE" type="SUP">NICHTEISENMETALLE</synonym>
+					<synonym xml:lang="DE" type="SUP">NE-METALL</synonym>
+					<synonym xml:lang="EN" type="SUP">NON-FERROUS-METALS</synonym>
+					<synonym xml:lang="EN" type="SUP">NONFERROUS-METALS</synonym>
+					<synonym xml:lang="DE" type="SUP">METALLE</synonym>
+					<synonym xml:lang="DE" type="SUP">METALL:ELEMENT</synonym>
+					<synonym xml:lang="DE" type="SUP">METALLISCHES-ELEMENT</synonym>
+					<synonym xml:lang="EN" type="SUP">METAL-ELEMENTS</synonym>
+					<synonym xml:lang="EN" type="SUP">METALS</synonym>
+					<synonym xml:lang="DE" type="SUP">CHEMISCHES-ELEMENT</synonym>
+					<synonym xml:lang="DE" type="SUP">ELEMENT:CHEMIE</synonym>
+					<synonym xml:lang="EN" type="SUP">CHEMICAL-ELEMENTS</synonym>
+					<synonym xml:lang="EN" type="SUP">ELEMENTS:CHEMICAL</synonym>
+					<synonym xml:lang="DE" type="SUP">ELEMENT</synonym>
+					<synonym xml:lang="EN" type="SUP">ELEMENTS</synonym>
+					<synonym xml:lang="DE" type="SUP">SCHWERMETALLE</synonym>
+					<synonym xml:lang="DE" type="SUP">SCHWERMETALL</synonym>
+					<synonym xml:lang="EN" type="SUP">HEAVY-METAL-ELEMENTS</synonym>
+					<synonym xml:lang="EN" type="SUP">HEAVY-METALS</synonym>
+					<synonym xml:lang="DE" type="SUP">UEBERGANGSMETALLE</synonym>
+					<synonym xml:lang="DE" type="SUP">UEBERGANGSELEMENT</synonym>
+					<synonym xml:lang="EN" type="SUP">TRANSITION-ELEMENTS</synonym>
+					<synonym xml:lang="EN" type="SUP">TRANSITION-METALS</synonym>
+					<synonym xml:lang="DE" type="SYN">NANOPARTIKEL</synonym>
+					<synonym xml:lang="DE" type="SYN">NANOGROSSES-PARTIKEL</synonym>
+					<synonym xml:lang="DE" type="DES">NANOTEILCHEN</synonym>
+					<synonym xml:lang="EN" type="SYN">NANO-SIZED-PARTICLE</synonym>
+					<synonym xml:lang="EN" type="SYN">NANOPARTICLES</synonym>
+					<synonym xml:lang="DE" type="SUP">PARTIKEL</synonym>
+					<synonym xml:lang="DE" type="SUP">TEILCHEN:PARTIKEL</synonym>
+					<synonym xml:lang="EN" type="SUP">PARTICLES</synonym>
+					<synonym xml:lang="DE" type="DES">BIOSENSOR</synonym>
+					<synonym xml:lang="DE" type="SYN">BIOSENSORIK</synonym>
+					<synonym xml:lang="DE" type="SYN">SENSOR-FUER-BIOLOGISCHE-GROESSEN</synonym>
+					<synonym xml:lang="EN" type="SYN">BIOSENSORS</synonym>
+					<synonym xml:lang="EN" type="SYN">SENSORS-FOR-BIOLOGICAL-PARAMETERS</synonym>
+					<synonym xml:lang="DE" type="SUP">SENSOR-BIOMEDIZINISCHER-GROESSEN</synonym>
+					<synonym xml:lang="DE" type="SUP">AUFNEHMER-BIOMEDIZINISCHER-GROESSEN</synonym>
+					<synonym xml:lang="EN" type="SUP">SENSORS-FOR-BIOMEDICAL-QUANTITIES</synonym>
+					<synonym xml:lang="DE" type="SUP">SENSOR</synonym>
+					<synonym xml:lang="DE" type="SUP">AUFNEHMER:SENSOR</synonym>
+					<synonym xml:lang="DE" type="SUP">FUEHLER:MESSTECHNIK</synonym>
+					<synonym xml:lang="DE" type="SUP">MESSAUFNEHMER</synonym>
+					<synonym xml:lang="DE" type="SUP">MESSFUEHLER</synonym>
+					<synonym xml:lang="DE" type="SUP">MESSGEBER</synonym>
+					<synonym xml:lang="DE" type="SUP">MESSKOPF</synonym>
+					<synonym xml:lang="DE" type="SUP">MESSTASTER</synonym>
+					<synonym xml:lang="DE" type="SUP">MESSWERTAUFNEHMER</synonym>
+					<synonym xml:lang="DE" type="SUP">MESSWERTGEBER</synonym>
+					<synonym xml:lang="DE" type="SUP">SENSORENSYSTEM</synonym>
+					<synonym xml:lang="DE" type="SUP">SENSORSYSTEM</synonym>
+					<synonym xml:lang="EN" type="SUP">DIMENSION-SENSORS</synonym>
+					<synonym xml:lang="EN" type="SUP">MEASURING-FEELERS</synonym>
+					<synonym xml:lang="EN" type="SUP">MEASURING-STYLUS</synonym>
+					<synonym xml:lang="EN" type="SUP">SENSING-DEVICES</synonym>
+					<synonym xml:lang="EN" type="SUP">SENSING-ELEMENTS</synonym>
+					<synonym xml:lang="EN" type="SUP">SENSOR-SYSTEMS</synonym>
+					<synonym xml:lang="EN" type="SUP">SENSORS</synonym>
+					<synonym xml:lang="EN" type="SUP">SENSORS-SYSTEMS</synonym>
+					<synonym xml:lang="EN" type="SUP">TRANSDUCERS:SENSOR</synonym>
+					<synonym xml:lang="EN" type="SUP">TRANSMITTERS:SENSOR</synonym>
+					<synonym xml:lang="DE" type="DES">CYSTEIN</synonym>
+					<synonym xml:lang="EN" type="SYN">CYSTEINE</synonym>
+					<synonym xml:lang="DE" type="SUP">AMINOSAEUREN</synonym>
+					<synonym xml:lang="EN" type="SUP">AMINO-ACIDS</synonym>
+					<synonym xml:lang="DE" type="SUP">CARBONSAEUREN</synonym>
+					<synonym xml:lang="DE" type="SUP">KARBONSAEUREN</synonym>
+					<synonym xml:lang="EN" type="SUP">CARBOXYLIC-ACIDS</synonym>
+					<synonym xml:lang="DE" type="SUP">ORGANISCHE-SAEUREN</synonym>
+					<synonym xml:lang="DE" type="SUP">ACIDS:ORGANIC</synonym>
+					<synonym xml:lang="EN" type="SUP">ORGANIC-ACIDS</synonym>
+					<synonym xml:lang="DE" type="SUP">ORGANISCHE-VERBINDUNG</synonym>
+					<synonym xml:lang="EN" type="SUP">ORGANIC-COMPOUNDS</synonym>
+					<synonym xml:lang="DE" type="SUP">CHEMISCHE-VERBINDUNG</synonym>
+					<synonym xml:lang="DE" type="SUP">VERBINDUNG:CHEMISCH</synonym>
+					<synonym xml:lang="EN" type="SUP">CHEMICAL-COMPOUNDS</synonym>
+					<synonym xml:lang="EN" type="SUP">COMPOUNDS:CHEMICAL</synonym>
+					<synonym xml:lang="DE" type="SUP">SAEURE</synonym>
+					<synonym xml:lang="EN" type="SUP">ACIDS</synonym>
+					<synonym xml:lang="DE" type="DES">NITRAT</synonym>
+					<synonym xml:lang="DE" type="SYN">SALPETER</synonym>
+					<synonym xml:lang="EN" type="SYN">NITRATES</synonym>
+					<synonym xml:lang="EN" type="SYN">SALPETRE</synonym>
+					<synonym xml:lang="DE" type="SUP">ANORGANISCHE-STICKSTOFFVERBINDUNG</synonym>
+					<synonym xml:lang="EN" type="SUP">INORGANIC-NITROGEN-COMPOUNDS</synonym>
+					<synonym xml:lang="DE" type="SUP">NICHTMETALLISCH-ANORGANISCHE-VERBINDUNG</synonym>
+					<synonym xml:lang="DE" type="SUP">NICHTMETALLISCHE-VERBINDUNG</synonym>
+					<synonym xml:lang="DE" type="SUP">NICHTMETALLVERBINDUNG</synonym>
+					<synonym xml:lang="EN" type="SUP">NON-METALLIC-INORGANIC-COMPOUNDS</synonym>
+					<synonym xml:lang="EN" type="SUP">NONMETAL-COMPOUNDS</synonym>
+					<synonym xml:lang="EN" type="SUP">NONMETALLIC-COMPOUNDS</synonym>
+					<synonym xml:lang="EN" type="SUP">NONMETALLIC-INORGANIC-COMPOUNDS</synonym>
+					<synonym xml:lang="DE" type="SUP">ANORGANISCHE-VERBINDUNG</synonym>
+					<synonym xml:lang="EN" type="SUP">INORGANIC-COMPOUNDS</synonym>
+					<synonym xml:lang="DE" type="SUP">STICKSTOFFVERBINDUNG</synonym>
+					<synonym xml:lang="EN" type="SUP">NITROGEN-COMPOUNDS</synonym>
+					<synonym xml:lang="DE" type="SUP">ANORGANISCHES-SALZ</synonym>
+					<synonym xml:lang="EN" type="SUP">INORGANIC-SALT</synonym>
+					<synonym xml:lang="EN" type="SUP">SALT:INORGANIC-COMPOUND</synonym>
+					<synonym xml:lang="DE" type="SUP">SALZE</synonym>
+					<synonym xml:lang="EN" type="SUP">SALTS</synonym>
+					<synonym xml:lang="DE" type="SUP">SAUERSTOFFVERBINDUNG</synonym>
+					<synonym xml:lang="EN" type="SUP">OXYGEN-COMPOUNDS</synonym>
+					<synonym xml:lang="DE" type="SYN">OXIDATIONSREAKTION</synonym>
+					<synonym xml:lang="DE" type="DES">OXIDATION</synonym>
+					<synonym xml:lang="DE" type="SYN">OXIDATIVE-REAKTION</synonym>
+					<synonym xml:lang="DE" type="SYN">OXIDIEREN</synonym>
+					<synonym xml:lang="DE" type="SYN">OXYDATION</synonym>
+					<synonym xml:lang="DE" type="SYN">OXYDIEREN</synonym>
+					<synonym xml:lang="EN" type="SYN">OXIDATION-REACTION</synonym>
+					<synonym xml:lang="EN" type="SYN">OXIDATIONS</synonym>
+					<synonym xml:lang="EN" type="SYN">OXIDATIVE-REACTION</synonym>
+					<synonym xml:lang="DE" type="SUP">CHEMISCHE-REAKTION</synonym>
+					<synonym xml:lang="DE" type="SUP">CHEMISCHE-REAKTION:VERFAHRENSTECHNIK</synonym>
+					<synonym xml:lang="DE" type="SUP">CHEMISCHE-STOFFREAKTION</synonym>
+					<synonym xml:lang="DE" type="SUP">CHEMISCHER-REAKTIONSTYP</synonym>
+					<synonym xml:lang="EN" type="SUP">CHEMICAL-REACTION</synonym>
+					<synonym xml:lang="EN" type="SUP">CHEMICAL-REACTION-TYPE</synonym>
+					<synonym xml:lang="EN" type="SUP">TYPE-OF-CHEMICAL-REACTIONS</synonym>
+					<synonym xml:lang="DE" type="SUP">REAKTION</synonym>
+					<synonym xml:lang="EN" type="SUP">REACTION</synonym>
+					<synonym xml:lang="DE" type="DES">VERBUNDFOLIE</synonym>
+					<synonym xml:lang="EN" type="SYN">COMPOSITE-FILMS</synonym>
+					<synonym xml:lang="EN" type="SYN">COMPOSITE-FOILS</synonym>
+					<synonym xml:lang="DE" type="SUP">FOLIE</synonym>
+					<synonym xml:lang="EN" type="SUP">FOILS:SHEET-FILM</synonym>
+					<synonym xml:lang="EN" type="SUP">SHEET-FILMS</synonym>
+					<synonym xml:lang="DE" type="SYN">GALVANISCHES-ABSCHEIDEN</synonym>
+					<synonym xml:lang="DE" type="SYN">ELEKTROCHEMISCHE-ABSCHEIDUNG</synonym>
+					<synonym xml:lang="DE" type="SYN">ELEKTROLYTISCHE-ABSCHEIDUNG</synonym>
+					<synonym xml:lang="DE" type="SYN">ELEKTROLYTISCHES-ABSCHEIDEN</synonym>
+					<synonym xml:lang="DE" type="DES">GALVANISCHE-ABSCHEIDUNG</synonym>
+					<synonym xml:lang="EN" type="SYN">ELECTROCHEMICAL-PRECIPITATION</synonym>
+					<synonym xml:lang="EN" type="SYN">ELECTRODEPOSITION</synonym>
+					<synonym xml:lang="EN" type="SYN">ELECTROLYTIC-DEPOSITING</synonym>
+					<synonym xml:lang="EN" type="SYN">ELECTROLYTIC-DEPOSITION</synonym>
+					<synonym xml:lang="DE" type="DES">GLASELEKTRODE</synonym>
+					<synonym xml:lang="EN" type="SYN">GLASS-ELECTRODES</synonym>
+					<synonym xml:lang="DE" type="SUP">ELEKTRODE</synonym>
+					<synonym xml:lang="EN" type="SUP">ELECTRODES</synonym>
+					<synonym xml:lang="DE" type="SUP">ELEKTRISCHER-LEITER</synonym>
+					<synonym xml:lang="DE" type="SUP">LEITER:ELEKTRISCH</synonym>
+					<synonym xml:lang="EN" type="SUP">CONDUCTORS:ELECTROTECHNICAL-MATERIAL</synonym>
+					<synonym xml:lang="EN" type="SUP">ELECTRIC-CONDUCTORS</synonym>
+					<synonym xml:lang="EN" type="SUP">ELECTRICAL-CONDUCTORS</synonym>
+					<synonym xml:lang="DE" type="DES">STARKSTROM</synonym>
+					<synonym xml:lang="DE" type="SYN">KRAFTSTROM</synonym>
+					<synonym xml:lang="EN" type="SYN">HEAVY-CURRENT</synonym>
+					<synonym xml:lang="EN" type="SYN">HIGH-CURRENT</synonym>
+					<synonym xml:lang="EN" type="SYN">POWER-CURRENT</synonym>
+					<synonym xml:lang="DE" type="SUP">ELEKTRISCHER-STROM</synonym>
+					<synonym xml:lang="DE" type="SUP">ELEKTRISCHE-STROMSTAERKE</synonym>
+					<synonym xml:lang="DE" type="SUP">STROM:ELEKTRISCH</synonym>
+					<synonym xml:lang="EN" type="SUP">AMPERAGE</synonym>
+					<synonym xml:lang="EN" type="SUP">CURRENT:ELECTRIC</synonym>
+					<synonym xml:lang="EN" type="SUP">ELECTRIC-CURRENT</synonym>
+					<synonym xml:lang="EN" type="SUP">ELECTRICAL-CURRENT</synonym>
+					<synonym xml:lang="DE" type="SUP">ELEKTRISCHE-GROESSE</synonym>
+					<synonym xml:lang="EN" type="SUP">ELECTRICAL-CHARACTERISTICS</synonym>
+					<synonym xml:lang="EN" type="SUP">ELECTRICAL-QUANTITIES</synonym>
+					<synonym xml:lang="DE" type="SUP">PHYSIKALISCHE-GROESSE</synonym>
+					<synonym xml:lang="DE" type="SUP">GROESSE:PHYSIKALISCH</synonym>
+					<synonym xml:lang="EN" type="SUP">PHYSICAL-PARAMETER</synonym>
+					<synonym xml:lang="EN" type="SUP">PHYSICAL-QUANTITY</synonym>
+					<synonym xml:lang="EN" type="SUP">PHYSICAL-VARIABLE</synonym>
+					<synonym xml:lang="DE" type="SYN">GALVANISIEREN</synonym>
+					<synonym xml:lang="DE" type="SYN">ELEKTROPLATTIEREN</synonym>
+					<synonym xml:lang="DE" type="DES">ELEKTROPLATTIERUNG</synonym>
+					<synonym xml:lang="DE" type="SYN">GALVANISCHES-METALLISIEREN</synonym>
+					<synonym xml:lang="DE" type="SYN">GALVANISCHES-VERFAHREN</synonym>
+					<synonym xml:lang="DE" type="SYN">GALVANISIERUNG</synonym>
+					<synonym xml:lang="EN" type="SYN">ELECTRO-PLATING</synonym>
+					<synonym xml:lang="EN" type="SYN">ELECTROCHEMICAL-DEPOSITION</synonym>
+					<synonym xml:lang="EN" type="SYN">ELECTROPLATING</synonym>
+					<synonym xml:lang="DE" type="SUP">GALVANOTECHNIK</synonym>
+					<synonym xml:lang="DE" type="SUP">GALVANIK</synonym>
+					<synonym xml:lang="EN" type="SUP">ELECTROPLATING-TECHNIQUE</synonym>
+					<synonym xml:lang="DE" type="SUP">TECHNIK:ALLGEMEIN</synonym>
+					<synonym xml:lang="EN" type="SUP">TECHNIQUE:GENERAL</synonym>
+					<synonym xml:lang="DE" type="SYN">ZUSAMMENWIRKUNG</synonym>
+					<synonym xml:lang="DE" type="SYN">MITWIRKUNG</synonym>
+					<synonym xml:lang="DE" type="SYN">SYNERGIE</synonym>
+					<synonym xml:lang="DE" type="DES">SYNERGIEEFFEKT</synonym>
+					<synonym xml:lang="DE" type="SYN">SYNERGISMUS</synonym>
+					<synonym xml:lang="DE" type="SYN">ZUSAMMENWIRKEN</synonym>
+					<synonym xml:lang="EN" type="SYN">COACTION</synonym>
+					<synonym xml:lang="EN" type="SYN">SYNERGETIC-EFFECT</synonym>
+					<synonym xml:lang="EN" type="SYN">SYNERGISM</synonym>
+					<synonym xml:lang="EN" type="SYN">SYNERGY</synonym>
+					<synonym xml:lang="EN" type="SYN">SYNERGY-EFFECT</synonym>
+					<synonym xml:lang="DE" type="SUP">WIRKUNG:ALLGEMEIN</synonym>
+					<synonym xml:lang="DE" type="SUP">AUSWIRKUNG:ALLGEMEIN</synonym>
+					<synonym xml:lang="EN" type="SUP">EFFECT:GENERAL</synonym>
+				</synonyms>
+			</thesaurusTerms>
+			<indexerCode>0702</indexerCode>
+			<sourceNumber>907654</sourceNumber>
+			<sourceNotes>
+				<code>2015|1040-0397|27|5|1195|ONESTEPFABRICAT</code>
+				<code>2015|1521-4109|27|5|1195|ONESTEPFABRICAT</code>
+			</sourceNotes>
+		</functionalInfo>
+	</document>
+</ftx:documentContainer>
